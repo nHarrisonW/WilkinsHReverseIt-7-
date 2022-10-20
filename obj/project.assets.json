@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/nigelwilkins/.nuget/packages/": {}
+    "C:\\Users\\Reyes\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nigelwilkins/Desktop/CodestackMain/Homework/gitHubProj7/gitHubProj7.csproj",
+      "projectUniqueName": "C:\\Users\\Reyes\\Documents\\GitRepository\\WilkinsHReverseIt-7-\\gitHubProj7.csproj",
       "projectName": "gitHubProj7",
-      "projectPath": "/Users/nigelwilkins/Desktop/CodestackMain/Homework/gitHubProj7/gitHubProj7.csproj",
-      "packagesPath": "/Users/nigelwilkins/.nuget/packages/",
-      "outputPath": "/Users/nigelwilkins/Desktop/CodestackMain/Homework/gitHubProj7/obj/",
+      "projectPath": "C:\\Users\\Reyes\\Documents\\GitRepository\\WilkinsHReverseIt-7-\\gitHubProj7.csproj",
+      "packagesPath": "C:\\Users\\Reyes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Reyes\\Documents\\GitRepository\\WilkinsHReverseIt-7-\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/nigelwilkins/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Reyes\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
